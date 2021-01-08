@@ -1,0 +1,46 @@
+.elso{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+
+body{
+    background-image: url(img/hatter.jpg);
+    }
+
+.fejlec{
+    background-image: url(img/fejlec.jpg);
+    margin-top: zero;
+    height: max-content;
+    }
+
+
+h1{
+    text-align: center;
+}
+
+.bal{
+    background-color: #E8E8E8;
+    color: #800000;
+    width: 200px;
+    }
+
+img{
+    height: 100%;
+}
+
+.h6{
+    margin-left: 10px;
+    }
+
+
+
+.jobb{
+    background-color: #FFFFFF;
+    
+    }
+
+p{
+    text-align: justify;
+    }
