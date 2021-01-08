@@ -1,8 +1,13 @@
+table{
+    background-color: #E8E8E8;
+}
+
 .elso{
     width: 50%;
     margin-left: auto;
     margin-right: auto;
     }
+
 
 
 body{
@@ -12,7 +17,7 @@ body{
 .fejlec{
     background-image: url(img/fejlec.jpg);
     margin-top: zero;
-    height: max-content;
+    height: 110px;
     }
 
 
@@ -23,24 +28,36 @@ h1{
 .bal{
     background-color: #E8E8E8;
     color: #800000;
-    width: 200px;
     }
 
-img{
-    height: 100%;
+.ul{
+    list-style-type:none;
+}
+
+.iln{
+    font-size: 120%;
+}
+
+.piros{
+    margin-top: 200px;
 }
 
 .h6{
-    margin-left: 10px;
+    margin-left: 30px;
     }
 
 
 
 .jobb{
     background-color: #FFFFFF;
+    width: 80%;
     
     }
 
 p{
     text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 100px;
     }
