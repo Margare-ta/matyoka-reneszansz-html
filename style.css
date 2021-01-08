@@ -51,7 +51,9 @@ h1{
 .jobb{
     background-color: #FFFFFF;
     width: 80%;
-    
+    background-image: url(img/tartalomkep.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
     }
 
 p{
